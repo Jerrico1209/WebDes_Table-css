@@ -1,0 +1,32 @@
+body{
+    background-color: #FFC436;
+}
+h1{
+    color: #337CCF;
+}
+table{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border: 2px dashed white;
+    background-color: #ffd77a;
+    width: 100%;
+    padding: 1em;
+}
+th{
+    border: 2px solid white;
+    color: aliceblue;
+    background-color: #14a3a3;
+
+}
+td{
+    border: 2px solid white;
+    color: aliceblue;
+    background-color: #1450A3;
+    font-style: bold;
+}
+p{
+    font-family: 'Times New Roman', Times, serif;
+}
+i{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: red;
+}
